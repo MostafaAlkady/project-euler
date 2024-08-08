@@ -1,4 +1,4 @@
-# My Project Euler Solutions (incomplete)
+# My Project Euler Solutions
 Project-Euler is a website that contains challenging mathematics problems that require more than mathematical insight. Brute force solutions will almost always fail, and problems can only be solved using an optimized code. This is a repository for my solutions of some of Project Euler problems using Python. Some of the advanced problems took me days to come up with the idea.
 
 As per Project Euler's rules, the codes for problems 1-100 will be available in the designated folder. However, problems in 100-900 will be available upon request.

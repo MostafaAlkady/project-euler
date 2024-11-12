@@ -7,3 +7,5 @@ I quote from the website:
 "However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere."
 
 Remember: Cheating defies the point of learning. Please think about the problems yourself first, however long it might take you.
+
+My Own Key: 1919991_XucqdNfl6Z4sSNBY2gjWZ3Z6E0mBBh28
